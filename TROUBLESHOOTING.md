@@ -19,7 +19,7 @@ The connector uses `127.0.0.1:8765`. Only one process can listen on that port at
 Open Windows PowerShell:
 
 ```powershell
-cd "C:\RunningHubForAffinity\Bridge"
+cd `%LOCALAPPDATA%\RunningHubForAffinity\Bridge`
 py -3 .\conector.py
 ```
 
