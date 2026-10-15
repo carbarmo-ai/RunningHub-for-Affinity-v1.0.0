@@ -50,8 +50,9 @@ them directly into your Affinity document as new layers.
 ## Download & Installation
 
 **RunningHub for Affinity v1.0.0 is available for Windows.**
+- Supports Affinity 3.3.1 (Build 4940).
 
-Choose the installation method that best suits your needs. No compilation is required.
+Choose the installation method that best suits your needs.
 
 ### Windows Installer (Recommended)
 
@@ -61,7 +62,6 @@ The easiest way to get started. Download the installer, run it, and follow the s
 
 - No Python installation required.
 - Automatic installation of the connector.
-- Supports Affinity 3.3.1 (Build 4940).
 
 [Windows Installation Guide](INSTALL-WINDOWS.md)
 
@@ -72,7 +72,6 @@ The easiest way to get started. Download the installer, run it, and follow the s
 For users who prefer to install and run the connector manually.
 
 - Requires Python 3.12 (recommended).
-- No compilation required.
 - Includes the necessary connector files.
 
 [Manual Installation Guide](INSTALL-MANUAL.md)
@@ -81,8 +80,9 @@ For users who prefer to install and run the connector manually.
 
 Currently tested on:
 
-- Windows
+- Windows 11
 - Affinity 3.3.1 (Build 4940)
+- Python 3.12
 
 Other platforms and versions have not yet been verified.
 
