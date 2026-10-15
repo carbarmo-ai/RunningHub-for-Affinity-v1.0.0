@@ -8,7 +8,7 @@ You do not need Python to use this installation method.
 
 ## Step 1 — Download and install
 
-1. Download `RunningHub-for-Affinity-v1.0.0-Setup.exe` from the project's GitHub Releases page.
+1. Download `RunningHub-for-Affinity-v1.0.0-Automatic.zip` from the project's GitHub Releases page.
 2. Double-click the downloaded file.
 3. Follow the installation instructions until the process is complete.
 
