@@ -2,7 +2,14 @@
 
 **Connect Affinity to RunningHub and bring AI-powered image processing into your creative workflow.**
 
-RunningHub for Affinity is a community integration project designed to connect Affinity by Canva with RunningHub's cloud-based AI workflows.
+## About the Project
+
+RunningHub for Affinity is a free, open-source integration designed to connect Affinity by Canva with RunningHub's cloud-based AI tools and workflows.
+I developed this project from scratch with the assistance of ChatGPT, motivated by the need to expand the capabilities of the free version of Affinity by Canva through integration with third-party AI services, starting with RunningHub.ai.
+My vision is to continue developing this project by expanding its compatibility with locally hosted ComfyUI, bringing support to Affinity on macOS, and eventually extending the integration to other creative applications, including GIMP and Krita on Windows and Linux.
+**RunningHub for Affinity is completely free to use.** If you find this project valuable and would like to support its continued development, you are welcome to make a voluntary donation of any amount. Your support will help sustain this project and encourage the creation of future open-source tools.
+
+**[Support this project via PayPal](https://paypal.me/carbarmo)**
 
 ## Features
 
