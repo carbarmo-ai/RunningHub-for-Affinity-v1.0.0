@@ -7,7 +7,7 @@
 - Send selected Affinity content to RunningHub AI Apps or registered ComfyUI workflows.
 - Retrieve cloud-generated outputs as new Affinity layers.
 - Recover completed jobs using a dedicated recovery script.
-- Support large image transfers without an arbitrary 40 MB bridge limit.
+- Support large image transfers.
 - Windows installer requiring **no Python** on the user's machine.
 - Manual Python installation for users who prefer to run the connector themselves.
 - GPL-3.0-only licensed source code.
