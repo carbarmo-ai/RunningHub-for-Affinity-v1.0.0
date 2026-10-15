@@ -67,11 +67,14 @@ See the [Troubleshooting Guide](TROUBLESHOOTING.md) for common issues and recove
 
 ## How It Works
 
-1. Select an image, document, or selection in Affinity layers.
-2. Choose a compatible RunningHub workflow.
+1. Select an image layer in Affinity layers.
+2. Choose a compatible RunningHub workflow or API.
 3. Submit the input and processing parameters.
 4. Run the workflow in the cloud.
 5. Retrieve the output and import it into Affinity.
+
+You can use an API or workflow that requires one, two, three or more IMAGES for processing. Just select the layer of IMAGE 1 and run the respective script, it will ask you for the layers of the next IMAGES.
+In case you require a manual mask of he IMAGE for the API you can do a mask in Affinity and select the layer where the IMAGE and mask are.
 
 ## Installation
 
