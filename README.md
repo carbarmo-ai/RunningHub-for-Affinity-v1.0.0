@@ -38,14 +38,14 @@ the results as new layers — without writing code.
 Configure an AI App, automatically export the selected
 Affinity content, and send it to RunningHub.ai for processing.
 
-![RunningHub AI App configuration in Affinity](assets/01-generate-and-sen.png)
+![RunningHub AI App configuration in Affinity](assets/01-generate-and-send.png)
 
 ### Retrieve — Import Results as Affinity Layers
 
 Retrieve generated images from RunningHub.ai and import
 them directly into your Affinity document as new layers.
 
-![RunningHub results imported as Affinity layers](assets/02-retrieve-result.png)
+![RunningHub results imported as Affinity layers](assets/02-retrieve-results.png)
 
 ## Download & Installation
 
