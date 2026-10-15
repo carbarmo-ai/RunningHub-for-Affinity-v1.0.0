@@ -21,7 +21,18 @@ My vision is to continue developing this project by expanding its compatibility 
 - Preserve image dimensions without automatic resizing by the integration.
 - Configure RunningHub API access locally.
 
-  ## Screenshots
+
+## Click & Play
+
+Run your AI workflows directly from Affinity with just a few clicks.
+
+![Click & Play — RunningHub for Affinity Scripts Library](assets/click-and-play.png)
+
+Access RunningHub.ai from Affinity's Scripts Library.
+Configure your AI App, generate images, and retrieve
+the results as new layers — without writing code.
+
+## Screenshots
 
 ### Generate — Send an Image to RunningHub.ai
 
