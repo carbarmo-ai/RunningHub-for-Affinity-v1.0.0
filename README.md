@@ -25,7 +25,7 @@ My vision is to continue developing this project by expanding its compatibility 
 
 Run your AI workflows directly from Affinity with just a few clicks.
 
-![Click & Play — RunningHub for Affinity Scripts Library](assets/Click & Play Scripts Library.png)
+![Click & Play — RunningHub for Affinity Scripts Library](assets/click-and-play.png)
 
 Access RunningHub.ai from Affinity's Scripts Library.
 Configure your AI App, generate images, and retrieve
