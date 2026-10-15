@@ -20,6 +20,51 @@ My vision is to continue developing this project by expanding its compatibility 
 - Preserve image dimensions without automatic resizing by the integration.
 - Configure RunningHub API access locally.
 
+## Download & Installation
+
+**RunningHub for Affinity v1.0.0 is available for Windows.**
+
+Choose the installation method that best suits your needs. No compilation is required.
+
+### Windows Installer (Recommended)
+
+**[Download Windows Installer (.exe)](../../releases/download/v1.0.0/RunningHub-for-Affinity-v1.0.0-Automatic.zip)**
+
+The easiest way to get started. Download the installer, run it, and follow the setup instructions.
+
+- No Python installation required.
+- Automatic installation of the connector.
+- Supports Affinity 3.3.1 (Build 4940).
+
+[Windows Installation Guide](INSTALL-WINDOWS.md)
+
+### Manual Installation (Python)
+
+**[Download Manual Installation Package (.zip)](../../releases/download/v1.0.0/RunningHub-for-Affinity-v1.0.0-Manual.zip)**
+
+For users who prefer to install and run the connector manually.
+
+- Requires Python 3.12 (recommended).
+- No compilation required.
+- Includes the necessary connector files.
+
+[Manual Installation Guide](INSTALL-MANUAL.md)
+
+### Compatibility
+
+Currently tested on:
+
+- Windows
+- Affinity 3.3.1 (Build 4940)
+
+Other platforms and versions have not yet been verified.
+
+### Need Help?
+
+See the [Troubleshooting Guide](TROUBLESHOOTING.md) for common issues and recovery instructions.
+
+**Important:** RunningHub for Affinity is free and open-source software licensed under GPL-3.0-only. RunningHub cloud processing may require paid credits.
+
 ## How It Works
 
 1. Select an image, document, or selection in Affinity layers.
