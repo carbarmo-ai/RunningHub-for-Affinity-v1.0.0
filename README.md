@@ -47,13 +47,6 @@ them directly into your Affinity document as new layers.
 
 ![RunningHub results imported as Affinity layers](assets/02-retrieve-results.png)
 
-## Download & Installation
-
-**RunningHub for Affinity v1.0.0 is available for Windows.**
-- Supports Affinity 3.3.1 (Build 4940).
-
-Choose the installation method that best suits your needs.
-
 ### Windows Installer (Recommended)
 
 **[Download Windows Installer (.exe)](../../releases/download/v1.0.0/RunningHub-for-Affinity-v1.0.0-Automatic.zip)**
@@ -105,7 +98,43 @@ In case you require a manual mask of he IMAGE for the API you can do a mask in A
 
 ## Installation
 
-Installation instructions and setup tools will be provided as the project develops.
+RunningHub for Affinity v1.0.0 is available for Windows with two installation methods:
+
+### Automatic Installation (Recommended)
+
+Use the Windows installer for a simplified setup.
+
+1. Visit the [GitHub Releases](https://github.com/carbarmo-ai/RunningHub-for-Affinity-v1.0.0/releases/tag/v1.0.0) page.
+2. Download `RunningHub-for-Affinity-v1.0.0-Automatic.zip`.
+3. Extract the ZIP file and follow the included installation instructions.
+
+For detailed setup instructions, see [Automatic Installation Guide](INSTALL-WINDOWS.md).
+
+### Manual Installation
+
+For users who prefer to set up the connector manually using Python.
+
+1. Visit the [GitHub Releases](https://github.com/carbarmo-ai/RunningHub-for-Affinity-v1.0.0/releases/tag/v1.0.0) page.
+2. Download `RunningHub-for-Affinity-v1.0.0-Manual.zip`.
+3. Extract the ZIP file and follow the included instructions.
+
+For detailed setup instructions, see [Manual Installation Guide](INSTALL-MANUAL.md).
+
+### Temporary Files and Disk Space
+
+Both installation methods use the same `Exchange` folder:
+
+`%LOCALAPPDATA%\RunningHubForAffinity\Exchange`
+
+This folder stores temporary image exports, previews, and downloaded processing results exchanged between Affinity and the connector.
+
+Temporary files may accumulate over time and consume disk space. Once all processing tasks are complete, pending results have been retrieved, and important work has been saved, you can remove unnecessary temporary contents to free up storage.
+
+**Important:** Close Affinity and stop the connector before cleaning the folder. Keep the `Exchange` folder itself in place. Deleting files required by unfinished tasks or pending result recovery may cause data loss.
+
+For detailed cleanup instructions, see the [Troubleshooting Guide](TROUBLESHOOTING.md).
+
+**Future improvement:** Automatic temporary-file management is being evaluated to help reduce unnecessary disk usage in future releases. This functionality is not yet available in v1.0.0.
 
 ## Requirements
 
