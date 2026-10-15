@@ -1,4 +1,5 @@
 # RunningHub for Affinity v1.0.0
+![RunningHub for Affinity — Project Banner](assets/runninghub-for-affinity-banner.png)
 
 **Connect Affinity to RunningHub and bring AI-powered image processing into your creative workflow.**
 
