@@ -21,6 +21,22 @@ My vision is to continue developing this project by expanding its compatibility 
 - Preserve image dimensions without automatic resizing by the integration.
 - Configure RunningHub API access locally.
 
+  ## Screenshots
+
+### Generate — Send an Image to RunningHub.ai
+
+Configure an AI App, automatically export the selected
+Affinity content, and send it to RunningHub.ai for processing.
+
+![RunningHub AI App configuration in Affinity](assets/01-generate-and-send.png)
+
+### Retrieve — Import Results as Affinity Layers
+
+Retrieve generated images from RunningHub.ai and import
+them directly into your Affinity document as new layers.
+
+![RunningHub results imported as Affinity layers](assets/02-retrieve-results.png)
+
 ## Download & Installation
 
 **RunningHub for Affinity v1.0.0 is available for Windows.**
